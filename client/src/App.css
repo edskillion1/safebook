@@ -1,0 +1,87 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.paddingTitle {
+  padding-top: 5rem;
+  padding-bottom: 1rem;
+}
+
+.padding {
+  padding: 10px 0px 0px 0px;
+}
+
+.marginButton {
+  margin: 15;
+}
+
+.sb-ico-margin {
+  margin: 5px;
+}
+
+h1 {
+  font-weight: 900;
+  color: darkgrey;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 600;
+  color: darkgrey;
+  text-align: center;
+}
+
+.button-as-link {
+  background:none!important;
+  color:inherit;
+  border:none; 
+  padding:0!important;
+  font: inherit;
+  margin-top: 9px;
+  /*border is optional*/
+  /* border-bottom:1px solid #444;  */
+  cursor: pointer;
+}
+
+.myPageTitle {
+  padding-top: 7rem;
+}
+
+.profilePic, .topPost .Card {
+  /* margin-top: 2rem; */
+  max-height: 75%;
+}
+
+/* CardImg {
+  max-height: 100%;
+  max-width: 100%;
+} */

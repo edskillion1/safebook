@@ -1,0 +1,24 @@
+/* @import "@material/button/mdc-button"; */
+
+.navbar-nav {
+  /* padding-bottom: 1rem;
+  margin-bottom: 1rem; */
+  width: 100%;
+  text-align: center;
+  background-color: "light-blue";
+  border: 2px red;
+  /* text-decoration: none; */
+}
+
+.navbar-nav > .li {
+  text-align: center;
+  color: red;
+  float: none;
+  display: inline-block;
+}
+
+/* .mySafeHeader{
+  color: burlywood;
+  font-size: 20pt;
+} */
+

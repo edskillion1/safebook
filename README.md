@@ -1,2 +1,2 @@
 # safebook
-Project 3 - Safebook
+A safe place to share your Face!
